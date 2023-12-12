@@ -1,0 +1,15 @@
+{
+  "cards": [
+    {
+      "correctlyAnswered": 2,
+      "question": "q1",
+      "answer": "a1"
+    },
+    {
+      "correctlyAnswered": 0,
+      "question": "q2",
+      "answer": "a2"
+    }
+  ],
+  "name": "General Deck"
+}
