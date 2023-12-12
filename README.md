@@ -1,8 +1,8 @@
-# Flash Cards Application
+# Mnemosyne
 
 ### Test your knowledge!
 
-This application will provide users a method of creating and practicing flash cards!
+This application will provide users a method of creating and practicing flash cards! Made as a project for CPSC 210: Software Construction
 
 The **Flash Cards Application** can be used by:
 - Anyone who is interested in organizing their notes in flash cards
